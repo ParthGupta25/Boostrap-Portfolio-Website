@@ -60,9 +60,7 @@ img:hover{
         margin-right:15px;
         color:black;
 }
-img {
-  width:400px;
-  height:250px;
+iframe {
   border:5px solid black;
   padding:5px;
   margin:5px;
